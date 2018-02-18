@@ -1,0 +1,1 @@
+INSERT INTO series (id) VALUES (1), (2);
